@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-    const Mohammad-a-tab = {     
+    const Mohammad_a_tab = {     
         pronouns: "He" | "Him",     
         aboutMe: "I'm Node.js Developer",
         language: ["javaScript", "typeScript"], // Node.js,         
