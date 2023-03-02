@@ -61,7 +61,7 @@ const Mohammad_a_tab = {
 ## Connect with me
 
 [<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/mohammad_a_tab)
-[<img align="left" alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%FFA500.svg?&style=for-the-badge&logo=Linkedin&logoColor=black" />](https://www.linkedin.com/in/mohammad-a-tab/)
+[<img align="left" alt="Linkedin" src="https://img.shields.io/badge/Linkedin-%FFA500.svg?&style=for-the-badge&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-a-tab/)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mohammad.programmer.tab@gmail.com)
 
 
