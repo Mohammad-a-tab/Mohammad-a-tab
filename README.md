@@ -5,7 +5,7 @@ I am a web Developer and software engineer from Tabriz
 
     const Mohammad-a-tab = {     
         pronouns: "He" | "Him",     
-        aboutMe: "I'm Node.js Developer",
+        aboutMe: "I'm Node.js Developer"
         language: ["javaScript", "typeScript"] // Node.js,         
         myStack: {             
             backEnd: {             
