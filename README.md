@@ -3,10 +3,10 @@ I am a web Developer and software engineer from Tabriz
 
  A little more about me...
 
-    const Mohammad_a_tab = {     
+    const Mohammad-a-tab = {     
         pronouns: "He" | "Him",     
         aboutMe: "I'm Node.js Developer",
-        language: ["javaScript", "typeScript"], // Node.js,         
+        language: ["javaScript", "typeScript"] // Node.js,         
         myStack: {             
             backEnd: {             
                 frameworks: ["Express.js", "fastify"],                   
