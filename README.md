@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-    const Mohammad_a_tab = {     
+    const Mohammad-a-tab = {     
         pronouns: "He" | "Him",     
-        aboutMe: "I'm Node.js Developer",
-        language: ["javaScript", "typeScript"], // Node.js,         
+        aboutMe: "I'm Node.js Developer"
+        language: ["javaScript", "typeScript"] // Node.js,         
         myStack: {             
             backEnd: {             
                 frameworks: ["Express.js", "fastify"],                   
