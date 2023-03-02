@@ -15,7 +15,6 @@ I am a web Developer and software engineer from Tabriz
                 DataBases: ["MongoDB", "MySQL", "Redis", "ElasticSearch"],
                 architectures: ["MVC", "clean"],
                 API: ["postman", "swagger", "openAPI"],
-          
             },         
             frontEnd: {             
                 web: ["i'm not front-en developer 😁😁😁"],         
