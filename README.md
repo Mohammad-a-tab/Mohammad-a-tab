@@ -13,7 +13,7 @@ const Mohammad = {
     language: ["javaScript", "typeScript"] // Node.js,         
     myStack: {             
         backEnd: {             
-          frameworks: ["Express.js", "fastify"],                   
+          frameworks: ["Express.js", "Nest.js", "fastify"],                   
           microServiceTools: ["gRPC", "RabbitMQ"],
           realTimeTools: ["socket.io", "webSocket"],
           DataBases: ["MongoDB", "MySQL", "Redis", "ElasticSearch"],
