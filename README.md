@@ -10,10 +10,10 @@ I am a web Developer and software engineer from Tabriz
 const Mohammad = {     
     pronouns: "He" | "Him",     
     aboutMe: "I'm Node.js Developer "
-    language: ["javaScript", "typeScript"] // Node.js,         
+    language: ["javaScript", "typeScript", "php"] // Node.js,         
     myStack: {             
         backEnd: {             
-          frameworks: ["Express.js", "Nest.js", "fastify"],                   
+          frameworks: ["Express.js", "Nest.js", "laravel", "fastify"],                   
           microServiceTools: ["gRPC", "RabbitMQ"],
           realTimeTools: ["socket.io", "webSocket"],
           DataBases: ["MongoDB", "MySQL", "Redis", "ElasticSearch"],
